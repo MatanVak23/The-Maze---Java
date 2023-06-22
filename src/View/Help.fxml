@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.14-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="View.HelpController">
+   <children>
+      <VBox layoutX="16.0" layoutY="14.0" prefHeight="386.0" prefWidth="584.0">
+         <children>
+            <Label text="Maze by Ido Doron and Matan Vaknin" />
+            <Label />
+            <Label />
+            <Label text="To move in the maze you need to use the NumPad" />
+            <Label text="NumPad1: Diagonal Down Left" />
+            <Label text="NumPad2: Down" />
+            <Label text="NumPad3: Diagonal Down Right" />
+            <Label text="NumPad4: Left" />
+            <Label text="NumPad6: Right" />
+            <Label text="NumPad7: Diagonal Up Left" />
+            <Label text="NumPad8: Up" />
+            <Label text="NumPad9: Diagonal Up Right" />
+            <Label />
+            <Label text="" />
+         </children>
+      </VBox>
+   </children>
+</AnchorPane>

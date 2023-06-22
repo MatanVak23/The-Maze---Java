@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.14-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="View.AboutController">
+   <children>
+      <Label layoutX="223.0" layoutY="39.0" text="Details of the programmers:" />
+      <Label layoutX="72.0" layoutY="85.0" text="Matan Vakanin and Ido Doron." />
+      <Label layoutX="72.0" layoutY="116.0" text="The maze was created using the Prim algorithm." />
+      <Label layoutX="72.0" layoutY="167.0" text="The algorithm produces a maze that has at least one possible solution." />
+      <Label layoutX="72.0" layoutY="141.0" text="When the user asks for a solution to the maze," />
+      <Label layoutX="72.0" layoutY="243.0" text="he will be presented with a solution that uses BFS algorithm." />
+      <Label layoutX="72.0" layoutY="270.0" text="He finds a possible solution from the current point of the" />
+      <Label layoutX="72.0" layoutY="191.0" text="player while going over a minimum number of cells that he checks." />
+      <Label layoutX="72.0" layoutY="214.0" text="If you are interested in playing another game," />
+      <Label layoutX="72.0" layoutY="296.0" text="you can click the Maze generator button at any time" />
+      <Label layoutX="72.0" layoutY="324.0" text="and create a new board-sized maze as you wish." />
+   </children>
+</AnchorPane>

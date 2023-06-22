@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.14-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="View.PropertiesController">
+   <children>
+      <Label layoutX="253.0" layoutY="45.0" text="Maze Information" />
+      <Label layoutX="76.0" layoutY="63.0" text="" />
+      <Label layoutX="76.0" layoutY="101.0" text="" />
+      <Label layoutX="76.0" layoutY="101.0" text="Maze generate by MyMazeGenerator" />
+      <Label layoutX="76.0" layoutY="128.0" text="The solution option used BFS algorithem" />
+      <Label layoutX="76.0" layoutY="155.0" text="The player is Jazz jackrabbit" />
+      <Label layoutX="76.0" layoutY="182.0" text="All the soundtracks are from the game of Jazz jackrabbit 2 1998" />
+      <Label layoutX="76.0" layoutY="292.0" text="" />
+   </children>
+</AnchorPane>
